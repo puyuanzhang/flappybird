@@ -1,0 +1,129 @@
+[0511/160821:ERROR:browser_host_impl.cc(1677)] CefBrowserHostImpl::LoadURL( https://cache.tv.qq.com/startup/report.html?rand=1#cmd=3&version=11.17.7063.0&GUID={AB30DEBE-752F-BABC-7916-2291149BA515}&owner=client&
+[0511/160824:INFO:CONSOLE(51)] "[gglogger][2021-05-11 16:08:24.584] ", source: http://cache.tv.qq.com/gg/creative/ggadapter1.2.html (51)
+[0511/160824:INFO:CONSOLE(51)] "[gglogger][2021-05-11 16:08:24.588] ", source: http://cache.tv.qq.com/gg/creative/ggadapter1.2.html (51)
+[0511/160824:INFO:CONSOLE(51)] "[gglogger][2021-05-11 16:08:24.799] ", source: http://cache.tv.qq.com/gg/creative/ggadapter1.2.html (51)
+[0511/160824:INFO:CONSOLE(51)] "[gglogger][2021-05-11 16:08:24.809] ", source: http://cache.tv.qq.com/gg/creative/ggadapter1.2.html (51)
+[0511/160824:INFO:CONSOLE(51)] "[gglogger][2021-05-11 16:08:24.810] ", source: http://cache.tv.qq.com/gg/creative/ggadapter1.2.html (51)
+[0511/160825:ERROR:browser_host_impl.cc(1677)] CefBrowserHostImpl::LoadURL( https://cache.tv.qq.com/startup/report.html?rand=0#cmd=0&version=11.17.7063.0&GUID={AB30DEBE-752F-BABC-7916-2291149BA515}&owner=client&&status=1
+[0511/160825:ERROR:browser_host_impl.cc(1677)] CefBrowserHostImpl::LoadURL( https://cache.tv.qq.com/startup/report.html?rand=1#cmd=0&version=11.17.7063.0&GUID={AB30DEBE-752F-BABC-7916-2291149BA515}&owner=client&&status=0
+[0511/160825:INFO:CONSOLE(51)] "[gglogger][2021-05-11 16:08:25.441] ", source: http://cache.tv.qq.com/gg/creative/ggadapter1.2.html (51)
+[0511/160825:INFO:CONSOLE(51)] "[gglogger][2021-05-11 16:08:25.442] ", source: http://cache.tv.qq.com/gg/creative/ggadapter1.2.html (51)
+[0511/160827:ERROR:browser_host_impl.cc(1677)] CefBrowserHostImpl::LoadURL( https://cache.tv.qq.com/startup/report.html?rand=0#cmd=0&version=11.17.7063.0&GUID={AB30DEBE-752F-BABC-7916-2291149BA515}&owner=client&&status=0
+[0511/160827:ERROR:browser_host_impl.cc(1677)] CefBrowserHostImpl::LoadURL( https://cache.tv.qq.com/startup/report.html?rand=1#cmd=0&version=11.17.7063.0&GUID={AB30DEBE-752F-BABC-7916-2291149BA515}&owner=client&&status=0
+[0511/160827:ERROR:browser_host_impl.cc(1677)] CefBrowserHostImpl::LoadURL( https://ra.gtimg.com/sc/cqq/dkb.html?loc=QQlive_SP_HP_DKB&channel=choice&pos=0
+[0511/160827:INFO:host_resolver_impl.cc(791)] domain: ra.gtimg.com
+[0511/160827:INFO:host_resolver_impl.cc(744)] use http dns
+[0511/160827:INFO:qb_dns_client.cc(179)] response: 123.6.0.60;123.6.1.59;123.6.6.119,180
+[0511/160828:INFO:host_resolver_impl.cc(791)] domain: js.aq.qq.com
+[0511/160828:INFO:host_resolver_impl.cc(744)] use http dns
+[0511/160828:INFO:qb_dns_client.cc(179)] response: 123.6.6.119;123.6.1.59;123.6.0.60,159
+[0511/160829:INFO:host_resolver_impl.cc(791)] domain: l.qq.com
+[0511/160829:INFO:host_resolver_impl.cc(744)] use http dns
+[0511/160830:INFO:qb_dns_client.cc(179)] response: 125.39.133.48,71
+[0511/160832:INFO:host_resolver_impl.cc(791)] domain: pgdt.gtimg.cn
+[0511/160832:INFO:host_resolver_impl.cc(744)] use http dns
+[0511/160832:INFO:qb_dns_client.cc(179)] response: 115.56.90.124;123.6.2.164;123.6.2.228;42.236.89.61;123.6.2.42;123.6.2.44;123.6.2.204;123.6.2.33;123.6.2.40;123.6.33.59;123.6.1.90;123.6.2.43;115.56.90.104;42.236.89.188;123.6.2.208,38
+[0511/160834:INFO:host_resolver_impl.cc(791)] domain: p.l.qq.com
+[0511/160834:INFO:host_resolver_impl.cc(744)] use http dns
+[0511/160834:INFO:qb_dns_client.cc(179)] response: 220.194.91.163,176
+[0511/160840:INFO:host_resolver_impl.cc(791)] domain: dp3.qq.com
+[0511/160840:INFO:host_resolver_impl.cc(744)] use http dns
+[0511/160840:INFO:qb_dns_client.cc(179)] response: 125.39.83.113,82
+[0511/160916:INFO:host_resolver_impl.cc(2026)] RemindClearHostCacheThreadDelegate WAIT_OBJECT_0
+[0511/161412:INFO:host_resolver_impl.cc(2026)] RemindClearHostCacheThreadDelegate WAIT_OBJECT_0
+[0511/161912:INFO:host_resolver_impl.cc(2033)] RemindClearHostCacheThreadDelegate WAIT_TIMEOUT
+[0511/161913:INFO:host_resolver_impl.cc(2026)] RemindClearHostCacheThreadDelegate WAIT_OBJECT_0
+[0511/162413:INFO:host_resolver_impl.cc(2033)] RemindClearHostCacheThreadDelegate WAIT_TIMEOUT
+[0511/162413:INFO:host_resolver_impl.cc(2026)] RemindClearHostCacheThreadDelegate WAIT_OBJECT_0
+[0511/162913:INFO:host_resolver_impl.cc(2033)] RemindClearHostCacheThreadDelegate WAIT_TIMEOUT
+[0511/162913:INFO:host_resolver_impl.cc(2026)] RemindClearHostCacheThreadDelegate WAIT_OBJECT_0
+[0511/163413:INFO:host_resolver_impl.cc(2033)] RemindClearHostCacheThreadDelegate WAIT_TIMEOUT
+[0511/163413:INFO:host_resolver_impl.cc(2026)] RemindClearHostCacheThreadDelegate WAIT_OBJECT_0
+[0511/163912:INFO:host_resolver_impl.cc(2026)] RemindClearHostCacheThreadDelegate WAIT_OBJECT_0
+[0511/164412:INFO:host_resolver_impl.cc(2033)] RemindClearHostCacheThreadDelegate WAIT_TIMEOUT
+[0511/164413:INFO:host_resolver_impl.cc(2026)] RemindClearHostCacheThreadDelegate WAIT_OBJECT_0
+[0511/164913:INFO:host_resolver_impl.cc(2033)] RemindClearHostCacheThreadDelegate WAIT_TIMEOUT
+[0511/165043:INFO:host_resolver_impl.cc(2026)] RemindClearHostCacheThreadDelegate WAIT_OBJECT_0
+[0511/165442:INFO:host_resolver_impl.cc(2026)] RemindClearHostCacheThreadDelegate WAIT_OBJECT_0
+[0511/165913:INFO:host_resolver_impl.cc(2026)] RemindClearHostCacheThreadDelegate WAIT_OBJECT_0
+[0511/170412:INFO:host_resolver_impl.cc(2026)] RemindClearHostCacheThreadDelegate WAIT_OBJECT_0
+[0511/170912:INFO:host_resolver_impl.cc(2033)] RemindClearHostCacheThreadDelegate WAIT_TIMEOUT
+[0511/170912:INFO:host_resolver_impl.cc(2026)] RemindClearHostCacheThreadDelegate WAIT_OBJECT_0
+[0511/171412:INFO:host_resolver_impl.cc(2033)] RemindClearHostCacheThreadDelegate WAIT_TIMEOUT
+[0511/171412:INFO:host_resolver_impl.cc(2026)] RemindClearHostCacheThreadDelegate WAIT_OBJECT_0
+[0511/171912:INFO:host_resolver_impl.cc(2026)] RemindClearHostCacheThreadDelegate WAIT_OBJECT_0
+[0511/172402:INFO:host_resolver_impl.cc(2687)] HostResolverImpl::OnNetworkChanged type=6
+[0511/172402:INFO:host_resolver_impl.cc(2687)] HostResolverImpl::OnNetworkChanged type=0
+[0511/172404:INFO:host_resolver_impl.cc(2687)] HostResolverImpl::OnNetworkChanged type=6
+[0511/172404:INFO:host_resolver_impl.cc(2687)] HostResolverImpl::OnNetworkChanged type=0
+[0511/172412:INFO:host_resolver_impl.cc(2033)] RemindClearHostCacheThreadDelegate WAIT_TIMEOUT
+[0511/172912:INFO:host_resolver_impl.cc(2033)] RemindClearHostCacheThreadDelegate WAIT_TIMEOUT
+[0511/172914:INFO:host_resolver_impl.cc(2026)] RemindClearHostCacheThreadDelegate WAIT_OBJECT_0
+[0511/173412:INFO:host_resolver_impl.cc(2026)] RemindClearHostCacheThreadDelegate WAIT_OBJECT_0
+[0511/173451:INFO:host_resolver_impl.cc(2687)] HostResolverImpl::OnNetworkChanged type=6
+[0511/173451:INFO:host_resolver_impl.cc(2687)] HostResolverImpl::OnNetworkChanged type=0
+[0511/173451:ERROR:browser_host_impl.cc(1677)] CefBrowserHostImpl::LoadURL( file:///C:\Program Files\WindowsApps\903DB504.56054E940A214_11.17.7063.0_x86__a99ra4d2cbcxa\SysData\blank.html
+[0511/173454:INFO:host_resolver_impl.cc(2687)] HostResolverImpl::OnNetworkChanged type=6
+[0511/173454:INFO:host_resolver_impl.cc(2687)] HostResolverImpl::OnNetworkChanged type=0
+[0511/173912:INFO:host_resolver_impl.cc(2026)] RemindClearHostCacheThreadDelegate WAIT_OBJECT_0
+[0511/174412:INFO:host_resolver_impl.cc(2033)] RemindClearHostCacheThreadDelegate WAIT_TIMEOUT
+[0511/174501:INFO:host_resolver_impl.cc(2026)] RemindClearHostCacheThreadDelegate WAIT_OBJECT_0
+[0511/174654:INFO:host_resolver_impl.cc(2687)] HostResolverImpl::OnNetworkChanged type=6
+[0511/174654:INFO:host_resolver_impl.cc(2687)] HostResolverImpl::OnNetworkChanged type=0
+[0511/174655:ERROR:browser_host_impl.cc(1677)] CefBrowserHostImpl::LoadURL( file:///C:\Program Files\WindowsApps\903DB504.56054E940A214_11.17.7063.0_x86__a99ra4d2cbcxa\SysData\blank.html
+[0511/174657:INFO:host_resolver_impl.cc(2687)] HostResolverImpl::OnNetworkChanged type=6
+[0511/174657:INFO:host_resolver_impl.cc(2687)] HostResolverImpl::OnNetworkChanged type=0
+[0511/174957:INFO:host_resolver_impl.cc(2026)] RemindClearHostCacheThreadDelegate WAIT_OBJECT_0
+[0511/175457:INFO:host_resolver_impl.cc(2026)] RemindClearHostCacheThreadDelegate WAIT_OBJECT_0
+[0511/175957:INFO:host_resolver_impl.cc(2033)] RemindClearHostCacheThreadDelegate WAIT_TIMEOUT
+[0511/175957:INFO:host_resolver_impl.cc(2026)] RemindClearHostCacheThreadDelegate WAIT_OBJECT_0
+[0511/180457:INFO:host_resolver_impl.cc(2026)] RemindClearHostCacheThreadDelegate WAIT_OBJECT_0
+[0511/180957:INFO:host_resolver_impl.cc(2033)] RemindClearHostCacheThreadDelegate WAIT_TIMEOUT
+[0511/180957:INFO:host_resolver_impl.cc(2026)] RemindClearHostCacheThreadDelegate WAIT_OBJECT_0
+[0511/181211:INFO:host_resolver_impl.cc(2687)] HostResolverImpl::OnNetworkChanged type=6
+[0511/181457:INFO:host_resolver_impl.cc(2033)] RemindClearHostCacheThreadDelegate WAIT_TIMEOUT
+[0511/181957:INFO:host_resolver_impl.cc(2033)] RemindClearHostCacheThreadDelegate WAIT_TIMEOUT
+[0511/182457:INFO:host_resolver_impl.cc(2033)] RemindClearHostCacheThreadDelegate WAIT_TIMEOUT
+[0511/203212:ERROR:browser_host_impl.cc(1677)] CefBrowserHostImpl::LoadURL( file:///C:\Program Files\WindowsApps\903DB504.56054E940A214_11.17.7063.0_x86__a99ra4d2cbcxa\SysData\blank.html
+[0511/203215:INFO:host_resolver_impl.cc(2687)] HostResolverImpl::OnNetworkChanged type=6
+[0511/203215:INFO:host_resolver_impl.cc(2687)] HostResolverImpl::OnNetworkChanged type=0
+[0511/203218:INFO:host_resolver_impl.cc(2687)] HostResolverImpl::OnNetworkChanged type=6
+[0511/203218:INFO:host_resolver_impl.cc(2687)] HostResolverImpl::OnNetworkChanged type=0
+[0511/203510:INFO:host_resolver_impl.cc(2033)] RemindClearHostCacheThreadDelegate WAIT_TIMEOUT
+[0511/203755:INFO:host_resolver_impl.cc(2026)] RemindClearHostCacheThreadDelegate WAIT_OBJECT_0
+[0511/204255:INFO:host_resolver_impl.cc(2033)] RemindClearHostCacheThreadDelegate WAIT_TIMEOUT
+[0511/204255:INFO:host_resolver_impl.cc(2026)] RemindClearHostCacheThreadDelegate WAIT_OBJECT_0
+[0511/204755:INFO:host_resolver_impl.cc(2033)] RemindClearHostCacheThreadDelegate WAIT_TIMEOUT
+[0511/204756:INFO:host_resolver_impl.cc(2026)] RemindClearHostCacheThreadDelegate WAIT_OBJECT_0
+[0511/205255:INFO:host_resolver_impl.cc(2026)] RemindClearHostCacheThreadDelegate WAIT_OBJECT_0
+[0511/205755:INFO:host_resolver_impl.cc(2033)] RemindClearHostCacheThreadDelegate WAIT_TIMEOUT
+[0511/205755:INFO:host_resolver_impl.cc(2026)] RemindClearHostCacheThreadDelegate WAIT_OBJECT_0
+[0511/210255:INFO:host_resolver_impl.cc(2033)] RemindClearHostCacheThreadDelegate WAIT_TIMEOUT
+[0511/210302:INFO:host_resolver_impl.cc(2026)] RemindClearHostCacheThreadDelegate WAIT_OBJECT_0
+[0511/210755:INFO:host_resolver_impl.cc(2026)] RemindClearHostCacheThreadDelegate WAIT_OBJECT_0
+[0511/211255:INFO:host_resolver_impl.cc(2026)] RemindClearHostCacheThreadDelegate WAIT_OBJECT_0
+[0511/211755:INFO:host_resolver_impl.cc(2033)] RemindClearHostCacheThreadDelegate WAIT_TIMEOUT
+[0511/211758:INFO:host_resolver_impl.cc(2026)] RemindClearHostCacheThreadDelegate WAIT_OBJECT_0
+[0511/212256:INFO:host_resolver_impl.cc(2026)] RemindClearHostCacheThreadDelegate WAIT_OBJECT_0
+[0511/212756:INFO:host_resolver_impl.cc(2033)] RemindClearHostCacheThreadDelegate WAIT_TIMEOUT
+[0511/212756:INFO:host_resolver_impl.cc(2026)] RemindClearHostCacheThreadDelegate WAIT_OBJECT_0
+[0511/213255:INFO:host_resolver_impl.cc(2026)] RemindClearHostCacheThreadDelegate WAIT_OBJECT_0
+[0511/213755:INFO:host_resolver_impl.cc(2026)] RemindClearHostCacheThreadDelegate WAIT_OBJECT_0
+[0511/214255:INFO:host_resolver_impl.cc(2033)] RemindClearHostCacheThreadDelegate WAIT_TIMEOUT
+[0511/214256:INFO:host_resolver_impl.cc(2026)] RemindClearHostCacheThreadDelegate WAIT_OBJECT_0
+[0511/214755:INFO:host_resolver_impl.cc(2026)] RemindClearHostCacheThreadDelegate WAIT_OBJECT_0
+[0511/215255:INFO:host_resolver_impl.cc(2033)] RemindClearHostCacheThreadDelegate WAIT_TIMEOUT
+[0511/215256:INFO:host_resolver_impl.cc(2026)] RemindClearHostCacheThreadDelegate WAIT_OBJECT_0
+[0511/215755:INFO:host_resolver_impl.cc(2026)] RemindClearHostCacheThreadDelegate WAIT_OBJECT_0
+[0511/220255:INFO:host_resolver_impl.cc(2033)] RemindClearHostCacheThreadDelegate WAIT_TIMEOUT
+[0511/220256:INFO:host_resolver_impl.cc(2026)] RemindClearHostCacheThreadDelegate WAIT_OBJECT_0
+[0511/220755:INFO:host_resolver_impl.cc(2026)] RemindClearHostCacheThreadDelegate WAIT_OBJECT_0
+[0511/221255:INFO:host_resolver_impl.cc(2033)] RemindClearHostCacheThreadDelegate WAIT_TIMEOUT
+[0511/221255:INFO:host_resolver_impl.cc(2026)] RemindClearHostCacheThreadDelegate WAIT_OBJECT_0
+[0511/221755:INFO:host_resolver_impl.cc(2026)] RemindClearHostCacheThreadDelegate WAIT_OBJECT_0
+[0511/222255:INFO:host_resolver_impl.cc(2033)] RemindClearHostCacheThreadDelegate WAIT_TIMEOUT
+[0511/222255:INFO:host_resolver_impl.cc(2026)] RemindClearHostCacheThreadDelegate WAIT_OBJECT_0
+[0511/222755:INFO:host_resolver_impl.cc(2033)] RemindClearHostCacheThreadDelegate WAIT_TIMEOUT
+[0511/222756:INFO:host_resolver_impl.cc(2026)] RemindClearHostCacheThreadDelegate WAIT_OBJECT_0
+[0511/223255:INFO:host_resolver_impl.cc(2026)] RemindClearHostCacheThreadDelegate WAIT_OBJECT_0
+[0511/223755:INFO:host_resolver_impl.cc(2033)] RemindClearHostCacheThreadDelegate WAIT_TIMEOUT
