@@ -7,5 +7,4 @@
     在文件Debug中，flappybird.exe是提前编译好的二进制文件可双击查看游戏效果
 
 ### 编译运行
-    安装easyx图形库，在 VC6.0 ~ VC2019环境下编译flappybird.cpp
-    源代码
+    安装easyx图形库，在 VC6.0 ~ VC2019环境下编译flappybird.cp源代码
